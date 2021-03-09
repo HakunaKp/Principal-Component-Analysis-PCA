@@ -11,6 +11,6 @@ View PCA implementation for linear regression in LR.py
 sudo apt install python3-pip or pip3 install numpy. 
 If your are using Windows command line, you may try setx PATH "%PATH%;C:\Python34\Scripts", followed by py -3 -mpip install numpy.
 
-#### for matplotlib:
+#### matplotlib used to display results:
 python3 -m pip install -U pip and then python3 -m pip install -U matplotlib. 
 If you are using the Windows command line, you may try py -3 -mpip install -U pip and then py -3 -mpip install -U matplotlib.
